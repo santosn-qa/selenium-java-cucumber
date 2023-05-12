@@ -26,6 +26,8 @@ replay_pid*
 # IDE
 *.idea
 *.settings
+*.classpath
+*.project
 
 # Output
 target
