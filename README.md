@@ -1,7 +1,7 @@
 # selenium-java-cucumber
 This is a demonstration of automated testing for the [Stripe Demo Site](https://stripe-payments-demo.appspot.com/)
 
-Find the public repository [here](https://github.com/santosn-qa/selenium-java-cucumber) | Authored by: Nourilee Santos
+Authored by: Nourilee Santos
 
 ## frameworks
 These tests are developed in Java with:
